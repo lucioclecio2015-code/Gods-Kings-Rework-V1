@@ -1,0 +1,1509 @@
+[
+  {
+    "name": "Moinho de Graos",
+    "cost": 60,
+    "requiredTech": "Pottery",
+    "uniques": [
+      "Must have an owned [Trigo] within [3] tiles",
+      "[+1 Food] from every [Trigo]",
+      "[+1 Gold] from every [Trigo]",
+      "[+1 Food] from every [Milho]",
+      "[+1 Food] from every [Cevada]"
+    ]
+  },
+  {
+    "name": "Padaria e Processadora de Alimentos",
+    "cost": 120,
+    "requiredTech": "Economics",
+    "uniques": [
+      "Must have an owned [Trigo] within [3] tiles",
+      "[+2 Food] from every [Trigo]",
+      "[+1 Gold] from every [Trigo]"
+    ]
+  },
+  {
+    "name": "Fabrica de Racao e Nutricao Animal",
+    "cost": 160,
+    "requiredTech": "Biology",
+    "uniques": [
+      "Must have an owned [Soja] within [3] tiles",
+      "[+2 Food] from every [Pasture]",
+      "[+1 Production] from every [Soja]",
+      "[+1 Production] from every [Milho]",
+      "[+1 Food] from every [Alfafa e Pastagem]"
+    ]
+  },
+  {
+    "name": "Prensa de Oleo e Lagar",
+    "cost": 100,
+    "requiredTech": "Machinery",
+    "uniques": [
+      "Must have an owned [Azeitona] within [3] tiles",
+      "[+2 Gold] from every [Azeitona]",
+      "[+1 Gold] from every [Girassol]",
+      "[+1 Production] from every [Girassol]",
+      "[+1 Gold] from every [Palma Dende]",
+      "[+1 Production] from every [Palma Dende]",
+      "[+1 Gold] from every [Soja]"
+    ]
+  },
+  {
+    "name": "Casa de Farinha e Fecula",
+    "cost": 75,
+    "requiredTech": "Calendar",
+    "uniques": [
+      "Must have an owned [Mandioca] within [3] tiles",
+      "[+1 Food] from every [Mandioca]",
+      "[+1 Gold] from every [Mandioca]",
+      "[+1 Food] from every [Batata]",
+      "[+1 Food] from every [Beterraba]"
+    ]
+  },
+  {
+    "name": "Torrefacao de Cafe",
+    "cost": 120,
+    "requiredTech": "Banking",
+    "uniques": [
+      "Must have an owned [Cafe] within [3] tiles",
+      "[+2 Gold] from every [Cafe]",
+      "[+1 Happiness] from every [Cafe]"
+    ]
+  },
+  {
+    "name": "Chocolataria e Processadora de Cacau",
+    "cost": 140,
+    "requiredTech": "Economics",
+    "uniques": [
+      "Must have an owned [Cacau] within [3] tiles",
+      "[+2 Gold] from every [Cacau]",
+      "[+1 Happiness] from every [Cacau]"
+    ]
+  },
+  {
+    "name": "Vinicola",
+    "cost": 100,
+    "requiredTech": "Calendar",
+    "uniques": [
+      "Must have an owned [Uva] within [3] tiles",
+      "[+2 Gold] from every [Uva]",
+      "[+1 Happiness]"
+    ]
+  },
+  {
+    "name": "Cervejaria Artesanal",
+    "cost": 100,
+    "requiredTech": "Engineering",
+    "uniques": [
+      "Must have an owned [Cevada] within [3] tiles",
+      "[+1 Gold]",
+      "[+1 Happiness]",
+      "[+1 Gold] from every [Lupulo]",
+      "[+1 Food] from every [Cevada]"
+    ]
+  },
+  {
+    "name": "Fabrica Textil",
+    "cost": 150,
+    "requiredTech": "Economics",
+    "uniques": [
+      "Must have an owned [Algodao] within [3] tiles",
+      "[+2 Gold] from every [Algodao]",
+      "[+1 Production] from every [Algodao]",
+      "[+1 Production] from every [Canhamo]",
+      "[+1 Gold] from every [Canhamo]"
+    ]
+  },
+  {
+    "name": "Engenho de Acucar",
+    "cost": 80,
+    "requiredTech": "Calendar",
+    "uniques": [
+      "Must have an owned [Cana de Acucar] within [3] tiles",
+      "[+2 Gold] from every [Cana de Acucar]",
+      "[+1 Gold] from every [Beterraba]"
+    ]
+  },
+  {
+    "name": "Usina de Bioetanol",
+    "cost": 200,
+    "requiredTech": "Combustion",
+    "uniques": [
+      "Must have an owned [Cana de Acucar] within [3] tiles",
+      "[+3 Production]",
+      "[+2 Gold]",
+      "[+1 Production] from every [Cana de Acucar]",
+      "[+1 Production] from every [Milho]",
+      "[+1 Production] from every [Mandioca]"
+    ]
+  },
+  {
+    "name": "Processadora de Tabaco",
+    "cost": 110,
+    "requiredTech": "Economics",
+    "uniques": [
+      "Must have an owned [Tabaco] within [3] tiles",
+      "[+3 Gold] from every [Tabaco]"
+    ]
+  },
+  {
+    "name": "Matadouro e Frigorifico",
+    "cost": 150,
+    "requiredTech": "Refrigeration",
+    "uniques": [
+      "[+2 Food] from every [Bovinos]",
+      "[+1 Food] from every [Bubalinos]",
+      "[+2 Food] from every [Suinos]",
+      "[+1 Food] from every [Aves]",
+      "[+1 Food] from every [Ovinos]",
+      "[+1 Food] from every [Caprinos]"
+    ]
+  },
+  {
+    "name": "Laticinio e Queijaria",
+    "cost": 120,
+    "requiredTech": "Economics",
+    "uniques": [
+      "[+1 Food] from every [Bovinos]",
+      "[+1 Gold] from every [Bovinos]",
+      "[+2 Gold] from every [Bubalinos]",
+      "[+2 Gold] from every [Caprinos]",
+      "[+1 Happiness] from every [Caprinos]",
+      "[+1 Gold] from every [Ovinos]"
+    ]
+  },
+  {
+    "name": "Curtume",
+    "cost": 100,
+    "requiredTech": "Guilds",
+    "uniques": [
+      "[+2 Production] from every [Bovinos]",
+      "[+2 Production] from every [Bubalinos]",
+      "[+1 Production] from every [Suinos]",
+      "[+1 Production] from every [Camelos]",
+      "[+1 Gold] from every [Camelideos]",
+      "[-1 Happiness]"
+    ]
+  },
+  {
+    "name": "Fiacao e Tecelagem",
+    "cost": 130,
+    "requiredTech": "Machinery",
+    "uniques": [
+      "[+2 Gold] from every [Ovinos]",
+      "[+1 Production] from every [Ovinos]",
+      "[+3 Gold] from every [Camelideos]",
+      "[+1 Production] from every [Camelideos]"
+    ]
+  },
+  {
+    "name": "Centro de Apicultura",
+    "cost": 80,
+    "requiredTech": "Agriculture",
+    "uniques": [
+      "Must have an owned [Abelhas] within [3] tiles",
+      "[+2 Gold] from every [Abelhas]",
+      "[+1 Happiness] from every [Abelhas]",
+      "[+1 Food] from every [Fazenda]"
+    ]
+  },
+  {
+    "name": "Haras e Coudelaria",
+    "cost": 110,
+    "requiredTech": "Chivalry",
+    "uniques": [
+      "[+2 Production] from every [Equinos]",
+      "[+1 Gold] from every [Equinos]",
+      "[+2 Production] from every [Camelos]",
+      "[+1 Gold] from every [Camelos]"
+    ]
+  },
+  {
+    "name": "Instalacoes de Aquicultura",
+    "cost": 140,
+    "requiredTech": "Biology",
+    "uniques": [
+      "[+2 Food] from every [Peixes]",
+      "[+1 Food] from every [Crustáceos]",
+      "[+2 Gold] from every [Ostras]"
+    ]
+  },
+  {
+    "name": "Siderurgica",
+    "cost": 150,
+    "requiredTech": "Steel",
+    "uniques": [
+      "Must have an owned [Minerio de ferro] within [3] tiles",
+      "[+2 Production] from every [Minerio de ferro]",
+      "[+1 Production]"
+    ]
+  },
+  {
+    "name": "Refinaria de Aluminio",
+    "cost": 180,
+    "requiredTech": "Dynamite",
+    "uniques": [
+      "Must have an owned [Bauxita] within [3] tiles",
+      "[+2 Production] from every [Bauxita]",
+      "[+1 Gold]"
+    ]
+  },
+  {
+    "name": "Fundicao de Cobre",
+    "cost": 120,
+    "requiredTech": "Metal Casting",
+    "uniques": [
+      "Must have an owned [Minerio de cobre] within [3] tiles",
+      "[+2 Gold] from every [Minerio de cobre]",
+      "[+1 Production] from every [Minerio de cobre]"
+    ]
+  },
+  {
+    "name": "Planta de Zinco e Galvanizacao",
+    "cost": 140,
+    "requiredTech": "Industrialization",
+    "uniques": [
+      "Must have an owned [Minerio de zinco] within [3] tiles",
+      "[+2 Production] from every [Minerio de zinco]"
+    ]
+  },
+  {
+    "name": "Complexo de Niquel e Ligas",
+    "cost": 160,
+    "requiredTech": "Industrialization",
+    "uniques": [
+      "Must have an owned [Minerio de niquel] within [3] tiles",
+      "[+2 Production] from every [Minerio de niquel]",
+      "[+1 Gold] from every [Minerio de niquel]"
+    ]
+  },
+  {
+    "name": "Processadora de Litio e Baterias",
+    "cost": 200,
+    "requiredTech": "Computers",
+    "uniques": [
+      "Must have an owned [Minerio de litio] within [3] tiles",
+      "[+3 Gold] from every [Minerio de litio]",
+      "[+2 Production] from every [Minerio de litio]"
+    ]
+  },
+  {
+    "name": "Refinaria de Terras Raras",
+    "cost": 220,
+    "requiredTech": "Electronics",
+    "uniques": [
+      "Must have an owned [Minerios de terras raras] within [3] tiles",
+      "[+3 Gold] from every [Minerios de terras raras]",
+      "[+2 Production] from every [Minerios de terras raras]"
+    ]
+  },
+  {
+    "name": "Fabrica de Cimento",
+    "cost": 100,
+    "requiredTech": "Construction",
+    "uniques": [
+      "Must have an owned [Calcario] within [3] tiles",
+      "[+2 Production] from every [Calcario]",
+      "[+1 Production]"
+    ]
+  },
+  {
+    "name": "Ceramica e Industria de Argila",
+    "cost": 80,
+    "requiredTech": "Pottery",
+    "uniques": [
+      "Must have an owned [Argila] within [3] tiles",
+      "[+1 Food] from every [Argila]",
+      "[+1 Production] from every [Argila]"
+    ]
+  },
+  {
+    "name": "Industria Vidreira",
+    "cost": 110,
+    "requiredTech": "Education",
+    "uniques": [
+      "Must have an owned [Silica] within [3] tiles",
+      "[+2 Gold] from every [Silica]",
+      "[+1 Production] from every [Silica]"
+    ]
+  },
+  {
+    "name": "Complexo de Fertilizantes Quimicos",
+    "cost": 150,
+    "requiredTech": "Fertilizer",
+    "uniques": [
+      "Must have an owned [Fosfato] within [3] tiles",
+      "[+2 Food] from every [Fosfato]",
+      "[+2 Food] from every [Potassio mineral]"
+    ]
+  },
+  {
+    "name": "Joalheria e Lapidacao",
+    "cost": 130,
+    "requiredTech": "Banking",
+    "uniques": [
+      "Must have an owned [Diamante] within [3] tiles",
+      "[+3 Gold] from every [Diamante]",
+      "[+2 Happiness] from every [Diamante]",
+      "[+3 Gold] from every [Rubi]",
+      "[+3 Gold] from every [Safira]"
+    ]
+  },
+  {
+    "name": "Teatro Municipal",
+    "cost": 180,
+    "maintenance": 2,
+    "requiredTech": "Construction",
+    "culture": 3
+  },
+  {
+    "name": "Cinema",
+    "cost": 240,
+    "maintenance": 3,
+    "requiredTech": "Electronics",
+    "culture": 4,
+    "gold": 2
+  },
+  {
+    "name": "Biblioteca Publica",
+    "cost": 220,
+    "maintenance": 2,
+    "requiredTech": "Education",
+    "science": 3,
+    "culture": 2
+  },
+  {
+    "name": "Centro Cultural",
+    "cost": 260,
+    "maintenance": 3,
+    "requiredTech": "Education",
+    "culture": 5
+  },
+  {
+    "name": "Parque Urbano",
+    "cost": 160,
+    "maintenance": 1,
+    "requiredTech": "Biology",
+    "culture": 2,
+    "food": 1
+  },
+  {
+    "name": "Complexo de Lazer",
+    "cost": 300,
+    "maintenance": 3,
+    "requiredTech": "Economics",
+    "culture": 5,
+    "gold": 3
+  },
+  {
+    "name": "Banco Nacional",
+    "cost": 280,
+    "maintenance": 3,
+    "requiredTech": "Banking",
+    "gold": 6
+  },
+  {
+    "name": "Cooperativa de Credito",
+    "cost": 220,
+    "maintenance": 2,
+    "requiredTech": "Banking",
+    "gold": 4
+  },
+  {
+    "name": "Bolsa de Valores",
+    "cost": 400,
+    "maintenance": 5,
+    "requiredTech": "Banking",
+    "gold": 9,
+    "science": 2
+  },
+  {
+    "name": "Centro Financeiro",
+    "cost": 360,
+    "maintenance": 4,
+    "requiredTech": "Banking",
+    "gold": 8,
+    "science": 3
+  },
+  {
+    "name": "Sistema de Pagamentos",
+    "cost": 360,
+    "maintenance": 4,
+    "requiredTech": "Computers",
+    "gold": 7,
+    "science": 2
+  },
+  {
+    "name": "Comercio Local",
+    "cost": 140,
+    "maintenance": 1,
+    "requiredTech": "Economics",
+    "gold": 3
+  },
+  {
+    "name": "Supermercado",
+    "cost": 220,
+    "maintenance": 2,
+    "requiredTech": "Refrigeration",
+    "food": 3,
+    "gold": 3
+  },
+  {
+    "name": "Centro Comercial",
+    "cost": 260,
+    "maintenance": 3,
+    "requiredTech": "Economics",
+    "gold": 5,
+    "culture": 2
+  },
+  {
+    "name": "Restaurante",
+    "cost": 180,
+    "maintenance": 2,
+    "requiredTech": "Refrigeration",
+    "food": 2,
+    "gold": 3
+  },
+  {
+    "name": "Servicos Empresariais",
+    "cost": 240,
+    "maintenance": 2,
+    "requiredTech": "Economics",
+    "gold": 5,
+    "science": 2
+  },
+  {
+    "name": "Policia Civil",
+    "cost": 220,
+    "maintenance": 3,
+    "requiredTech": "Education",
+    "cityStrength": 8
+  },
+  {
+    "name": "Delegacia",
+    "cost": 180,
+    "maintenance": 2,
+    "requiredTech": "Education",
+    "cityStrength": 5
+  },
+  {
+    "name": "Guarda Municipal",
+    "cost": 200,
+    "maintenance": 2,
+    "requiredTech": "Education",
+    "cityStrength": 6
+  },
+  {
+    "name": "Forum",
+    "cost": 220,
+    "maintenance": 2,
+    "requiredTech": "Education",
+    "culture": 2,
+    "gold": 2
+  },
+  {
+    "name": "Tribunal",
+    "cost": 300,
+    "maintenance": 3,
+    "requiredTech": "Education",
+    "culture": 3,
+    "gold": 3
+  },
+  {
+    "name": "Sistema Penitenciario",
+    "cost": 300,
+    "maintenance": 4,
+    "requiredTech": "Construction",
+    "cityStrength": 7
+  },
+  {
+    "name": "Centro de Defesa Civil",
+    "cost": 260,
+    "maintenance": 3,
+    "requiredTech": "Engineering",
+    "cityStrength": 6,
+    "cityHealth": 5
+  },
+  {
+    "name": "Parque Ambiental",
+    "cost": 240,
+    "maintenance": 2,
+    "requiredTech": "Biology",
+    "culture": 4,
+    "science": 2
+  },
+  {
+    "name": "Reserva Natural",
+    "cost": 220,
+    "maintenance": 1,
+    "requiredTech": "Biology",
+    "culture": 3,
+    "food": 1
+  },
+  {
+    "name": "Unidade de Conservacao",
+    "cost": 260,
+    "maintenance": 2,
+    "requiredTech": "Biology",
+    "culture": 4,
+    "science": 2
+  },
+  {
+    "name": "Estacao de Tratamento de Agua",
+    "cost": 280,
+    "maintenance": 3,
+    "requiredTech": "Engineering",
+    "food": 2,
+    "cityHealth": 8
+  },
+  {
+    "name": "Usina de Reciclagem",
+    "cost": 260,
+    "maintenance": 3,
+    "requiredTech": "Biology",
+    "production": 3,
+    "gold": 2
+  },
+  {
+    "name": "Tratamento de Residuos",
+    "cost": 300,
+    "maintenance": 3,
+    "requiredTech": "Biology",
+    "production": 3,
+    "science": 2
+  },
+  {
+    "name": "Controle de Poluicao",
+    "cost": 320,
+    "maintenance": 3,
+    "requiredTech": "Biology",
+    "science": 3,
+    "culture": 2
+  },
+  {
+    "name": "Recuperacao Florestal",
+    "cost": 260,
+    "maintenance": 2,
+    "requiredTech": "Biology",
+    "food": 2,
+    "culture": 3
+  },
+  {
+    "name": "Complexo de Energia Limpa",
+    "cost": 360,
+    "maintenance": 4,
+    "requiredTech": "Clean Energy",
+    "production": 5,
+    "science": 2
+  },
+  {
+    "name": "Reservatorio",
+    "cost": 240,
+    "maintenance": 2,
+    "requiredTech": "Engineering",
+    "food": 3
+  },
+  {
+    "name": "Represa",
+    "cost": 320,
+    "maintenance": 4,
+    "requiredTech": "Engineering",
+    "food": 3,
+    "production": 3
+  },
+  {
+    "name": "Sistema de Abastecimento",
+    "cost": 300,
+    "maintenance": 3,
+    "requiredTech": "Engineering",
+    "food": 3,
+    "cityHealth": 6
+  },
+  {
+    "name": "Irrigacao Avancada",
+    "cost": 280,
+    "maintenance": 3,
+    "requiredTech": "Machinery",
+    "food": 5
+  },
+  {
+    "name": "Gestao de Bacias",
+    "cost": 300,
+    "maintenance": 3,
+    "requiredTech": "Biology",
+    "food": 3,
+    "science": 3
+  },
+  {
+    "name": "Dessalinizacao",
+    "cost": 420,
+    "maintenance": 5,
+    "requiredTech": "Electronics",
+    "food": 4,
+    "science": 3
+  },
+  {
+    "name": "Aeroporto",
+    "cost": 400,
+    "maintenance": 5,
+    "requiredTech": "Combustion",
+    "gold": 7,
+    "production": 3
+  },
+  {
+    "name": "Porto Moderno",
+    "cost": 380,
+    "maintenance": 5,
+    "requiredTech": "Combustion",
+    "gold": 7,
+    "production": 4
+  },
+  {
+    "name": "Metro",
+    "cost": 360,
+    "maintenance": 5,
+    "requiredTech": "Electronics",
+    "gold": 5,
+    "production": 3
+  },
+  {
+    "name": "VLT",
+    "cost": 300,
+    "maintenance": 4,
+    "requiredTech": "Electronics",
+    "gold": 4,
+    "production": 3
+  },
+  {
+    "name": "BRT",
+    "cost": 280,
+    "maintenance": 3,
+    "requiredTech": "Combustion",
+    "gold": 4,
+    "production": 2
+  },
+  {
+    "name": "Terminal Aeroportuario",
+    "cost": 320,
+    "maintenance": 4,
+    "requiredTech": "Combustion",
+    "gold": 5,
+    "production": 2
+  },
+  {
+    "name": "Terminal Maritimo",
+    "cost": 340,
+    "maintenance": 4,
+    "requiredTech": "Combustion",
+    "gold": 6,
+    "production": 3
+  },
+  {
+    "name": "Centro de Controle de Transportes",
+    "cost": 360,
+    "maintenance": 4,
+    "requiredTech": "Telecommunications",
+    "gold": 5,
+    "production": 3
+  },
+  {
+    "name": "Instituto Cientifico",
+    "cost": 300,
+    "maintenance": 3,
+    "requiredTech": "Education",
+    "science": 6
+  },
+  {
+    "name": "Laboratorio Especializado",
+    "cost": 320,
+    "maintenance": 3,
+    "requiredTech": "Education",
+    "science": 7
+  },
+  {
+    "name": "Centro de Biotecnologia",
+    "cost": 360,
+    "maintenance": 4,
+    "requiredTech": "Biotechnology",
+    "science": 7,
+    "production": 2
+  },
+  {
+    "name": "Centro de Nanotecnologia",
+    "cost": 420,
+    "maintenance": 5,
+    "requiredTech": "Nanotechnology",
+    "science": 9,
+    "production": 3
+  },
+  {
+    "name": "Centro Espacial",
+    "cost": 480,
+    "maintenance": 6,
+    "requiredTech": "Space Colonization",
+    "science": 9,
+    "production": 4
+  },
+  {
+    "name": "Observatorio",
+    "cost": 340,
+    "maintenance": 3,
+    "requiredTech": "Education",
+    "science": 7,
+    "culture": 2
+  },
+  {
+    "name": "Centro de Pesquisa Avancada",
+    "cost": 400,
+    "maintenance": 5,
+    "requiredTech": "Quantum Computing",
+    "science": 9
+  },
+  {
+    "name": "Faculdade de Medicina",
+    "cost": 360,
+    "maintenance": 4,
+    "requiredTech": "Education",
+    "science": 7,
+    "cityHealth": 10
+  },
+  {
+    "name": "Hospital Universitario",
+    "cost": 420,
+    "maintenance": 5,
+    "requiredTech": "Education",
+    "science": 7,
+    "cityHealth": 18
+  },
+  {
+    "name": "Instituto de Oncologia",
+    "cost": 400,
+    "maintenance": 4,
+    "requiredTech": "Biology",
+    "science": 5,
+    "cityHealth": 15
+  },
+  {
+    "name": "Centro de Cardiologia",
+    "cost": 380,
+    "maintenance": 4,
+    "requiredTech": "Biology",
+    "science": 5,
+    "cityHealth": 15
+  },
+  {
+    "name": "Centro de Transplantes",
+    "cost": 440,
+    "maintenance": 5,
+    "requiredTech": "Biology",
+    "science": 6,
+    "cityHealth": 18
+  },
+  {
+    "name": "Industria Farmaceutica",
+    "cost": 380,
+    "maintenance": 4,
+    "requiredTech": "Pharmaceuticals",
+    "science": 6,
+    "production": 3
+  },
+  {
+    "name": "Centro de Biotecnologia Medica",
+    "cost": 420,
+    "maintenance": 5,
+    "requiredTech": "Biotechnology",
+    "science": 7,
+    "cityHealth": 12
+  },
+  {
+    "name": "E-Commerce",
+    "cost": 320,
+    "maintenance": 3,
+    "requiredTech": "Computers",
+    "gold": 6,
+    "science": 3
+  },
+  {
+    "name": "Fintech",
+    "cost": 360,
+    "maintenance": 4,
+    "requiredTech": "Computers",
+    "gold": 7,
+    "science": 4
+  },
+  {
+    "name": "Computacao em Nuvem",
+    "cost": 400,
+    "maintenance": 5,
+    "requiredTech": "Quantum Computing",
+    "science": 7,
+    "gold": 3
+  },
+  {
+    "name": "Ciberseguranca",
+    "cost": 400,
+    "maintenance": 5,
+    "requiredTech": "Cybernetics",
+    "science": 6,
+    "cityStrength": 5
+  },
+  {
+    "name": "Centro de Inteligencia Artificial",
+    "cost": 460,
+    "maintenance": 6,
+    "requiredTech": "Artificial Intelligence",
+    "science": 10
+  },
+  {
+    "name": "Centro de Automacao",
+    "cost": 400,
+    "maintenance": 5,
+    "requiredTech": "Robotics",
+    "production": 6,
+    "science": 4
+  },
+  {
+    "name": "Centro de Robotica",
+    "cost": 440,
+    "maintenance": 5,
+    "requiredTech": "Robotics",
+    "production": 7,
+    "science": 6
+  },
+  {
+    "name": "Centro de Dados Avancado",
+    "cost": 420,
+    "maintenance": 5,
+    "requiredTech": "Artificial Intelligence",
+    "science": 8,
+    "gold": 4
+  },
+  {
+    "name": "Grande Construtora",
+    "cost": 260,
+    "maintenance": 3,
+    "requiredTech": "Engineering",
+    "production": 3,
+    "gold": 2
+  },
+  {
+    "name": "Siderurgia Avancada",
+    "cost": 360,
+    "maintenance": 4,
+    "requiredTech": "Steel",
+    "production": 6
+  },
+  {
+    "name": "Materiais Especiais",
+    "cost": 380,
+    "maintenance": 4,
+    "requiredTech": "Advanced Materials",
+    "production": 4,
+    "science": 4
+  },
+  {
+    "name": "Maquinas Pesadas",
+    "cost": 320,
+    "maintenance": 4,
+    "requiredTech": "Machinery",
+    "production": 6
+  },
+  {
+    "name": "Engenharia Civil",
+    "cost": 280,
+    "maintenance": 3,
+    "requiredTech": "Engineering",
+    "production": 3,
+    "science": 2
+  },
+  {
+    "name": "Obras de Infraestrutura",
+    "cost": 400,
+    "maintenance": 5,
+    "requiredTech": "Industrialization",
+    "production": 6,
+    "gold": 2
+  },
+  {
+    "name": "Agricultura Mecanizada",
+    "cost": 260,
+    "maintenance": 3,
+    "requiredTech": "Machinery",
+    "food": 4,
+    "production": 3
+  },
+  {
+    "name": "Agricultura de Precisao",
+    "cost": 340,
+    "maintenance": 4,
+    "requiredTech": "Computers",
+    "food": 4,
+    "science": 4
+  },
+  {
+    "name": "Estufas Avancadas",
+    "cost": 280,
+    "maintenance": 3,
+    "requiredTech": "Fertilizer",
+    "food": 5
+  },
+  {
+    "name": "Banco de Sementes",
+    "cost": 300,
+    "maintenance": 3,
+    "requiredTech": "Biology",
+    "food": 3,
+    "science": 4
+  },
+  {
+    "name": "Sementes Melhoradas",
+    "cost": 320,
+    "maintenance": 3,
+    "requiredTech": "Biology",
+    "food": 5,
+    "science": 3
+  },
+  {
+    "name": "Biotecnologia Agricola",
+    "cost": 360,
+    "maintenance": 4,
+    "requiredTech": "Biotechnology",
+    "food": 5,
+    "science": 5
+  },
+  {
+    "name": "Agroindustria de Alta Tecnologia",
+    "cost": 400,
+    "maintenance": 5,
+    "requiredTech": "Industrialization",
+    "food": 4,
+    "production": 5,
+    "science": 3
+  },
+  {
+    "name": "Pesca Industrial",
+    "cost": 300,
+    "maintenance": 3,
+    "requiredTech": "Combustion",
+    "food": 5,
+    "gold": 3
+  },
+  {
+    "name": "Aquicultura Avancada",
+    "cost": 320,
+    "maintenance": 4,
+    "requiredTech": "Biology",
+    "food": 5,
+    "science": 2
+  },
+  {
+    "name": "Estaleiro",
+    "cost": 380,
+    "maintenance": 5,
+    "requiredTech": "Combustion",
+    "production": 6,
+    "gold": 3
+  },
+  {
+    "name": "Industria Naval",
+    "cost": 400,
+    "maintenance": 5,
+    "requiredTech": "Industrialization",
+    "production": 6,
+    "gold": 4
+  },
+  {
+    "name": "Terminal Pesqueiro",
+    "cost": 240,
+    "maintenance": 3,
+    "requiredTech": "Biology",
+    "food": 4,
+    "gold": 3
+  },
+  {
+    "name": "Processamento de Pescado",
+    "cost": 280,
+    "maintenance": 3,
+    "requiredTech": "Refrigeration",
+    "food": 4,
+    "production": 2
+  },
+  {
+    "name": "Complexo Offshore",
+    "cost": 500,
+    "maintenance": 6,
+    "requiredTech": "Combustion",
+    "production": 7,
+    "gold": 6
+  },
+  {
+    "name": "Fabrica de Aeronaves",
+    "cost": 420,
+    "maintenance": 5,
+    "requiredTech": "Combustion",
+    "production": 6,
+    "gold": 4
+  },
+  {
+    "name": "Componentes Aeronauticos",
+    "cost": 360,
+    "maintenance": 4,
+    "requiredTech": "Machinery",
+    "production": 5,
+    "science": 3
+  },
+  {
+    "name": "Centro de Manutencao Aeronautica",
+    "cost": 320,
+    "maintenance": 4,
+    "requiredTech": "Combustion",
+    "gold": 5,
+    "production": 3
+  },
+  {
+    "name": "Centro de Pesquisa Aeronautica",
+    "cost": 440,
+    "maintenance": 5,
+    "requiredTech": "Computers",
+    "science": 8,
+    "production": 3
+  },
+  {
+    "name": "Centro de Lancamento",
+    "cost": 500,
+    "maintenance": 6,
+    "requiredTech": "Combustion",
+    "science": 8,
+    "production": 5
+  },
+  {
+    "name": "Fabrica de Satelites",
+    "cost": 500,
+    "maintenance": 6,
+    "requiredTech": "Satellites",
+    "science": 8,
+    "production": 4
+  },
+  {
+    "name": "Centro de Controle Espacial",
+    "cost": 460,
+    "maintenance": 5,
+    "requiredTech": "Satellites",
+    "science": 8,
+    "gold": 3
+  },
+  {
+    "name": "Pesquisa Aeroespacial",
+    "cost": 520,
+    "maintenance": 6,
+    "requiredTech": "Satellites",
+    "science": 10,
+    "production": 3
+  },
+  {
+    "name": "Hotel",
+    "cost": 240,
+    "maintenance": 2,
+    "requiredTech": "Economics",
+    "gold": 5,
+    "culture": 2
+  },
+  {
+    "name": "Resort",
+    "cost": 340,
+    "maintenance": 4,
+    "requiredTech": "Economics",
+    "gold": 7,
+    "culture": 4
+  },
+  {
+    "name": "Centro Turistico",
+    "cost": 280,
+    "maintenance": 3,
+    "requiredTech": "Economics",
+    "gold": 5,
+    "culture": 4
+  },
+  {
+    "name": "Parque Tematico",
+    "cost": 360,
+    "maintenance": 4,
+    "requiredTech": "Economics",
+    "gold": 6,
+    "culture": 6
+  },
+  {
+    "name": "Centro de Convencoes",
+    "cost": 320,
+    "maintenance": 3,
+    "requiredTech": "Economics",
+    "gold": 5,
+    "culture": 5
+  },
+  {
+    "name": "Turismo Ecologico",
+    "cost": 300,
+    "maintenance": 3,
+    "requiredTech": "Biology",
+    "gold": 5,
+    "culture": 5
+  },
+  {
+    "name": "Turismo Historico",
+    "cost": 300,
+    "maintenance": 3,
+    "requiredTech": "Education",
+    "gold": 4,
+    "culture": 6
+  },
+  {
+    "name": "Ginasio",
+    "cost": 180,
+    "maintenance": 2,
+    "requiredTech": "Construction",
+    "culture": 3
+  },
+  {
+    "name": "Estadio",
+    "cost": 380,
+    "maintenance": 5,
+    "requiredTech": "Engineering",
+    "culture": 7,
+    "gold": 4
+  },
+  {
+    "name": "Centro Olimpico",
+    "cost": 340,
+    "maintenance": 4,
+    "requiredTech": "Engineering",
+    "culture": 6,
+    "production": 2
+  },
+  {
+    "name": "Autodromo",
+    "cost": 380,
+    "maintenance": 5,
+    "requiredTech": "Combustion",
+    "culture": 5,
+    "gold": 5
+  },
+  {
+    "name": "Centro de Treinamento",
+    "cost": 260,
+    "maintenance": 3,
+    "requiredTech": "Education",
+    "culture": 4,
+    "science": 2
+  },
+  {
+    "name": "Complexo Esportivo",
+    "cost": 420,
+    "maintenance": 5,
+    "requiredTech": "Engineering",
+    "culture": 7,
+    "gold": 4
+  },
+  {
+    "name": "Museu Historico",
+    "cost": 280,
+    "maintenance": 3,
+    "requiredTech": "Education",
+    "culture": 6
+  },
+  {
+    "name": "Monumento Nacional",
+    "cost": 240,
+    "maintenance": 2,
+    "requiredTech": "Construction",
+    "culture": 5
+  },
+  {
+    "name": "Centro Historico",
+    "cost": 300,
+    "maintenance": 3,
+    "requiredTech": "Education",
+    "culture": 7,
+    "gold": 2
+  },
+  {
+    "name": "Arquivo Publico",
+    "cost": 240,
+    "maintenance": 2,
+    "requiredTech": "Education",
+    "culture": 3,
+    "science": 3
+  },
+  {
+    "name": "Biblioteca Nacional",
+    "cost": 340,
+    "maintenance": 4,
+    "requiredTech": "Education",
+    "culture": 6,
+    "science": 5
+  },
+  {
+    "name": "Patrimonio Cultural",
+    "cost": 320,
+    "maintenance": 3,
+    "requiredTech": "Education",
+    "culture": 7
+  },
+  {
+    "name": "Porto Internacional",
+    "cost": 500,
+    "maintenance": 6,
+    "requiredTech": "Combustion",
+    "gold": 9,
+    "production": 5
+  },
+  {
+    "name": "Aeroporto Internacional",
+    "cost": 520,
+    "maintenance": 6,
+    "requiredTech": "Combustion",
+    "gold": 9,
+    "production": 4
+  },
+  {
+    "name": "Zona Franca",
+    "cost": 480,
+    "maintenance": 5,
+    "requiredTech": "Globalization",
+    "gold": 9,
+    "production": 4
+  },
+  {
+    "name": "Zona Industrial de Exportacao",
+    "cost": 460,
+    "maintenance": 5,
+    "requiredTech": "Globalization",
+    "gold": 8,
+    "production": 6
+  },
+  {
+    "name": "Centro Aduaneiro",
+    "cost": 300,
+    "maintenance": 3,
+    "requiredTech": "Globalization",
+    "gold": 5,
+    "production": 2
+  },
+  {
+    "name": "Terminal Internacional",
+    "cost": 380,
+    "maintenance": 5,
+    "requiredTech": "Globalization",
+    "gold": 7,
+    "production": 4
+  },
+  {
+    "name": "Fabrica de Semicondutores",
+    "cost": 440,
+    "maintenance": 5,
+    "requiredTech": "Matter Engineering",
+    "production": 5,
+    "science": 7,
+    "gold": 3
+  },
+  {
+    "name": "Fabrica de Baterias",
+    "cost": 420,
+    "maintenance": 5,
+    "requiredTech": "Electronics",
+    "production": 6,
+    "science": 4
+  },
+  {
+    "name": "Equipamentos Medicos",
+    "cost": 380,
+    "maintenance": 4,
+    "requiredTech": "Pharmaceuticals",
+    "production": 4,
+    "science": 5
+  },
+  {
+    "name": "Eletronica Avancada",
+    "cost": 420,
+    "maintenance": 5,
+    "requiredTech": "Matter Engineering",
+    "production": 5,
+    "science": 6
+  },
+  {
+    "name": "Robotica Industrial",
+    "cost": 460,
+    "maintenance": 5,
+    "requiredTech": "Robotics",
+    "production": 7,
+    "science": 6
+  },
+  {
+    "name": "IA Industrial",
+    "cost": 480,
+    "maintenance": 6,
+    "requiredTech": "Artificial Intelligence",
+    "production": 6,
+    "science": 9
+  },
+  {
+    "name": "Materiais Avancados",
+    "cost": 500,
+    "maintenance": 6,
+    "requiredTech": "Advanced Materials",
+    "production": 7,
+    "science": 7
+  },
+  {
+    "name": "Complexo Solar",
+    "cost": 400,
+    "maintenance": 5,
+    "requiredTech": "Clean Energy",
+    "production": 7,
+    "science": 2
+  },
+  {
+    "name": "Parque Eolico",
+    "cost": 400,
+    "maintenance": 5,
+    "requiredTech": "Clean Energy",
+    "production": 7,
+    "gold": 2
+  },
+  {
+    "name": "Usina Hidreletrica Avancada",
+    "cost": 380,
+    "maintenance": 4,
+    "requiredTech": "Engineering",
+    "production": 6
+  },
+  {
+    "name": "Usina de Biomassa",
+    "cost": 320,
+    "maintenance": 3,
+    "requiredTech": "Biology",
+    "production": 5,
+    "food": 1
+  },
+  {
+    "name": "Usina Geotermica",
+    "cost": 360,
+    "maintenance": 4,
+    "requiredTech": "Biology",
+    "production": 5,
+    "science": 2
+  },
+  {
+    "name": "Usina Nuclear",
+    "cost": 500,
+    "maintenance": 6,
+    "requiredTech": "Fusion Engineering",
+    "production": 9,
+    "science": 3
+  },
+  {
+    "name": "Armazenamento de Energia",
+    "cost": 420,
+    "maintenance": 5,
+    "requiredTech": "Clean Energy",
+    "production": 6,
+    "science": 3
+  },
+  {
+    "name": "Rede Eletrica Inteligente",
+    "cost": 500,
+    "maintenance": 6,
+    "requiredTech": "Cybernetics",
+    "production": 7,
+    "science": 5
+  },
+  {
+    "name": "Metropole",
+    "cost": 500,
+    "maintenance": 6,
+    "requiredTech": "Economics",
+    "gold": 6,
+    "production": 4,
+    "culture": 4
+  },
+  {
+    "name": "Distrito Financeiro Metropolitano",
+    "cost": 520,
+    "maintenance": 6,
+    "requiredTech": "Banking",
+    "gold": 11,
+    "science": 4
+  },
+  {
+    "name": "Grande Centro Empresarial",
+    "cost": 480,
+    "maintenance": 5,
+    "requiredTech": "Globalization",
+    "gold": 9,
+    "production": 3
+  },
+  {
+    "name": "Metro Metropolitano",
+    "cost": 500,
+    "maintenance": 6,
+    "requiredTech": "Electronics",
+    "gold": 6,
+    "production": 4
+  },
+  {
+    "name": "Aeroporto Metropolitano",
+    "cost": 520,
+    "maintenance": 6,
+    "requiredTech": "Combustion",
+    "gold": 9,
+    "production": 4
+  },
+  {
+    "name": "Universidade de Referencia",
+    "cost": 480,
+    "maintenance": 5,
+    "requiredTech": "Education",
+    "science": 10,
+    "culture": 5
+  },
+  {
+    "name": "Hospital de Referencia",
+    "cost": 500,
+    "maintenance": 6,
+    "requiredTech": "Biology",
+    "cityHealth": 30,
+    "science": 7
+  },
+  {
+    "name": "Parque Tecnologico",
+    "cost": 520,
+    "maintenance": 6,
+    "requiredTech": "Quantum Computing",
+    "science": 9,
+    "production": 4,
+    "gold": 3
+  },
+  {
+    "name": "Centro Financeiro Metropolitano",
+    "cost": 540,
+    "maintenance": 6,
+    "requiredTech": "Banking",
+    "gold": 12,
+    "science": 5
+  },
+  {
+    "name": "Centro de Convencoes Metropolitano",
+    "cost": 460,
+    "maintenance": 5,
+    "requiredTech": "Economics",
+    "culture": 7,
+    "gold": 7
+  },
+  {
+    "name": "Infraestrutura Inteligente",
+    "cost": 540,
+    "maintenance": 6,
+    "requiredTech": "Cybernetics",
+    "science": 6,
+    "production": 6,
+    "gold": 5
+  }
+]
